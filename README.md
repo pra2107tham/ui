@@ -29,9 +29,7 @@ You do NOT know our application pages.
 You do NOT know our UI structure.
 You must consult us before finalizing skill structure.
 
-========================
 YOUR TASK
-========================
 
 Step 1:
 Propose a clean, scalable architecture for:
